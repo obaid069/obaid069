@@ -68,11 +68,12 @@ Welcome to my portfolio repository! I'm a passionate tech learner with hands-on 
 
 ## 📫 Let's Connect
 
-- GitHub: [github.com/obaidzafar](https://github.com/obaidzafar)
-- LinkedIn: [linkedin.com/in/obaidzafar](#)
-- Email: your_email@example.com
+- GitHub: [github.com/obaidzafar](https://github.com/obaid069)
+- LinkedIn: https://www.linkedin.com/in/muhammad-obaid-zafar-0086b9301/
+- Email: obaidzafar234@gmail.com
 - Portfolio Website: *(coming soon)*
 
 ---
 
 _“Building tech with purpose. Learning never stops.”_
+Engineer in logic, athlete in spirit.
