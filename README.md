@@ -1,4 +1,4 @@
-# 👨‍💻 Obaid Zafar – IT Professional | AI Developer | DevOps Enthusiast
+# 👨‍💻 Obaid Zafar – IT Professional | WEB Developer | DevOps Enthusiast
 
 Welcome to my portfolio repository! I'm a passionate tech learner with hands-on experience in **System Administration, DevOps, AI Development, and Full-Stack Web & Mobile Development**. Currently, I'm pursuing my degree at **Air University**, interning at **CPDI**, and building impactful projects.
 
@@ -34,9 +34,6 @@ Welcome to my portfolio repository! I'm a passionate tech learner with hands-on 
 - Learned fundamentals of software, networking, and systems
 - Built academic and independent projects in AI and Full Stack
 
-### 🏢 CPDI Internship (Aug 2025 – Present)
-- Working on media literacy assessment and digital tools
-- Writing detailed reports and analyzing datasets
 
 ---
 
