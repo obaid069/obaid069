@@ -54,15 +54,7 @@ Welcome to my portfolio repository! I'm a passionate tech learner with hands-on 
 > Sensor-based plant watering system controlled via web dashboard.
 - Tech: ESP32, Firebase, React.js, Node.js
 
----
 
-## 🏆 Achievements
-
-- 💡 Built custom AI model for face-to-camera distance estimation
-- 🥇 Presented BlinkFit at University TechFest 2025
-- 🎯 Completed Google IT Support Professional Certificate (in progress)
-- 🛠️ Contributed to multiple open-source GitHub projects
-- 💬 Received glowing feedback during CPDI internship reports
 
 ---
 
