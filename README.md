@@ -63,7 +63,7 @@ Welcome to my portfolio repository! I'm a passionate tech learner with hands-on 
 - GitHub: [github.com/obaidzafar](https://github.com/obaid069)
 - LinkedIn: https://www.linkedin.com/in/muhammad-obaid-zafar-0086b9301/
 - Email: obaidzafar234@gmail.com
-- Portfolio Website: *(coming soon)*
+- Portfolio Website: https://my-portfolio-oz9.vercel.app/
 
 ---
 
