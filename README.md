@@ -50,8 +50,8 @@ Welcome to my portfolio repository! I'm a passionate tech learner with hands-on 
 ### 🔹 CI/CD Pipeline on AWS
 > Automated pipeline that pulls code from GitHub and deploys it to an EC2 instance using Docker & Jenkins.
 
-### 🔹 Smart Irrigation IoT System
-> Sensor-based plant watering system controlled via web dashboard.
+### 🔹 Smart Alert IoT System
+> Sensor-based Alert system controlled via App.
 - Tech: ESP32, Firebase, React.js, Node.js
 
 
