@@ -1,6 +1,58 @@
 # 💫 About Me:
-Obaid Zafar IT Professional | WEB Developer | DevOps Enthusiast<br>Welcome to my portfolio repository! I'm a passionate tech learner with hands-on experience in System Administration, DevOps, AI Development, and Full-Stack Web & Mobile Development. Currently, I'm pursuing my degree at Air University, interning at CPDI, and building impactful projects.<br><br>🧠 Skills<br>🛠️ System & Network Administration<br>Windows Server (IIS, Active Directory, DNS, Acronis Backup)<br>Virtualization (VMware, VirtualBox)<br>Network troubleshooting, firewalls, and basic VLANs<br>⚙️ DevOps & Cloud<br>CI/CD (GitHub Actions, Jenkins)<br>AWS (EC2, S3, IAM)<br>Docker, Nginx, Git, SSH<br>Terraform (learning stage)<br>👨‍💻 Software Development<br>Languages: C#, C++, Python, JavaScript<br>Frameworks: .NET Core, React.js, Node.js, Blazor<br>Mobile: React Native, Expo, Firebase<br>🧠 AI & Computer Vision<br>OpenCV, MediaPipe, TensorFlow Lite<br>AI Eye Tracking, Face Detection, Blink Detection<br><br>Mobile Application Development
-Actively developing mobile applications using React Native (Expo) and Kotlin, with Firebase for backend services such as authentication and real-time data.
+Obaid Zafar
+IT Professional | Web Developer | DevOps Enthusiast
+<br><br>
+Welcome to my portfolio repository. I am a technology-driven learner with hands-on experience in System Administration, DevOps, AI-based Computer Vision, and Full-Stack Web & Mobile Development.
+<br>
+Currently pursuing my degree at Air University, interning at CPDI, and actively building real-world projects to develop production-level skills.
+<br><br>
+
+🧠 Technical Skills
+<br><br>
+
+🛠️ System & Network Administration
+<br>
+Windows Server administration including IIS web hosting, Active Directory management, DNS configuration, and Acronis Backup for system recovery
+<br>
+Virtual machine deployment and management using VMware and VirtualBox
+<br>
+Network troubleshooting, firewall configuration, and basic VLAN implementation
+<br><br>
+
+⚙️ DevOps & Cloud
+<br>
+CI/CD pipeline implementation using GitHub Actions and Jenkins
+<br>
+AWS services including EC2, S3, and IAM for compute, storage, and access control
+<br>
+Docker for containerization, Nginx for web serving and reverse proxy configuration
+<br>
+Git and SSH for version control and secure system access
+<br>
+Terraform (learning and experimentation stage)
+<br><br>
+
+👨‍💻 Software Development
+<br>
+Programming Languages: C#, C++, Python, JavaScript
+<br>
+Frameworks & Technologies: .NET Core, React.js, Node.js, Blazor
+<br>
+Mobile Development: React Native (Expo) with Firebase integration
+<br><br>
+
+🧠 AI & Computer Vision
+<br>
+Computer vision development using OpenCV and MediaPipe
+<br>
+Lightweight machine learning inference with TensorFlow Lite
+<br>
+Projects involving eye tracking, face detection, and blink detection
+<br><br>
+
+📱 Mobile Application Development
+<br>
+Actively developing cross-platform mobile applications using React Native (Expo) and Kotlin, with Firebase for authentication, real-time databases, and backend services.
 
 
 ## 🌐 Socials:
