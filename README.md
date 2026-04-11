@@ -1,5 +1,5 @@
 # 💫 About Me:
-Obaid Zafar
+Muhammad Obaid Zafar
 IT Professional | Web Developer | DevOps Enthusiast
 <br><br>
 Welcome to my portfolio repository. I am a technology-driven learner with hands-on experience in System Administration, DevOps, AI-based Computer Vision, and Full-Stack Web & Mobile Development.
